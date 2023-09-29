@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+<head>
+
+
+<style type="text/css">
+.parent{
+display: flex;
+}
+.parent> div
+{
+
+display: inline;
+}
+
+</style>
+</head>
+<body>
+
+<div class="parent">
+<div> one</div>
+<div > two</div>
+<div> three</div>
+</div>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
